@@ -105,23 +105,6 @@ const ruben = {
 
 <br/>
 
-<!-- ═══════════════════════════ PROJECTS ═══════════════════════════ -->
-
-## 📌 &nbsp;Selected projects
-
-<div align="center">
-
-<a href="https://github.com/CoSmOsHeaven/twitchAnalytics">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=CoSmOsHeaven&repo=twitchAnalytics&theme=tokyonight&hide_border=true&border_radius=8" alt="twitchAnalytics" />
-</a>
-<a href="https://github.com/CoSmOsHeaven/ByteMe">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=CoSmOsHeaven&repo=ByteMe&theme=tokyonight&hide_border=true&border_radius=8" alt="ByteMe" />
-</a>
-
-</div>
-
-<br/>
-
 <!-- ═══════════════════════════ TROPHIES ═══════════════════════════ -->
 
 ## 🏆 &nbsp;Trophies
